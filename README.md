@@ -16,4 +16,4 @@ I wrote this to teach my son how to find the roots of a quadratic equation.
 
 He was delighted that I was inspired to write my first Python project for him.
 
-He was not delighted that I wrote a Maths revision tool for him.
+He will be less delighted that he now has plenty of opportunity to practice this topic in algebra.
